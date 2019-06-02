@@ -1,0 +1,6 @@
+
+Library/*
+*.log
+*.meta
+ProjectSettings/*
+Temp/*
